@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "de.academicjobs.germany",
+    "sha256_cert_fingerprints": ["96:81:53:20:D5:6B:EB:07:60:0A:5C:3C:B9:17:A1:AF:6F:E1:EE:91:A2:71:D7:6D:84:7E:0A:09:B4:A9:9D:91"]
+  }
+}]
